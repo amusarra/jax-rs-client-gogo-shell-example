@@ -1,0 +1,4 @@
+Bundle-Name: JAX-RS Client Gogo Shell Example
+Bundle-SymbolicName: it.dontesta.labs.liferay.jaxrs.client.gogoshell
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
